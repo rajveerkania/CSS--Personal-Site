@@ -17,6 +17,7 @@ h2{
     font-family: 'Montserrat', sans-serif;
 }
 
+
 hr{
     border-style: none;
     border-top-style: dotted;
@@ -37,6 +38,8 @@ hr{
 }
 
 .bottom-container{
+    background-color: #8bc24c;
+    padding-top: 1%;
 
 }
 
