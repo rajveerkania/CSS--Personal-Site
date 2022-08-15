@@ -18,12 +18,25 @@ h2{
 }
 
 hr{
+    margin-top: 0%;
+    margin-bottom: 0%;
     border-style: none;
     border-top-style: dotted;
     width: 4%;
     border-width: 3px;
     border-color: grey;
     height: 5px;
+}
+
+#my_skills{
+    font-style: italic;
+    color: black;
+}
+
+
+.get{
+    word-spacing: 3px;
+
 }
 
 .top_container{
@@ -33,24 +46,20 @@ hr{
 }
 
 .middle-container{
-    background-color: white;
+    background-color: #afdfd3;
 }
 
 .bottom-container{
+    background-color: #4cc2a5;
+    padding-top: 1%;
 
 }
 
 
 .dsa{
     height: 200px;
-    background-color: white;
+    background-color: #afdfd3;
 }
-
-.web-dev{
-    height: 200px;
-    background-color: white;
-}
-
 
 .top-cloud{
     position: absolute;
@@ -62,4 +71,12 @@ hr{
     position: absolute;
     left: 300px;
     bottom: 300px
+}
+
+#linkedin{
+    margin-right: 10px;
+}
+
+#email{
+    margin-left: 10px;
 }
